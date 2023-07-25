@@ -1,0 +1,119 @@
+# masOS hidden files
+*.DS_Store
+__pycache__/
+script/__pycache__/
+.python-version
+.ipynb_checkpoints
+.AppleDouble
+.LSOverride
+
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Executables
+*.exe
+*.out
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.o
+
+# LaTeX build files
+*.dvi
+*.aux
+*.blg
+*.lof
+*.log
+*.lot
+*.out
+*.ttt
+*.fff
+*.synctex.gz
+*.synctex
+*.toc
+*.spl
+leer.eps
+*.spl
+*.sh
+*~
+#delayedn.pdf
+
+# other temporary files
+\#*\#
+.\#*
+ref/*
+*conflicted*
+*.swp
+*.bak
+
+# PEP 582
+__pypackages__/
+__pycache__/
+
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+back/
+Python-bk/
+Python/__pycache__/
+Python/back/
+.python-version
+
+
+# vscode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+/.ipynb_checkpoints
+
+# Automatically generated eps and convert outputs
+*-eps-converted-to.pdf
+
+# private files if you want to keep them locally
+local
+
+#plot/*.eps
+*.eps
+*.jpg
+*.png
+*.pdf
+*.py
+
